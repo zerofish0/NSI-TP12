@@ -1,2 +1,4 @@
 # NSI-TP12
-TP 12 : Les nombres réels et les caractères
+tp12-normal : version classique sans modifications
+tp12_class : version classique mais organisée sous forme de classe
+tp12_gui : implémentation d'une interface graphique

@@ -1,5 +1,8 @@
-###[TP 12 : Les nombres réels et les caractères]###
-#VERSION : avec interface graphique tkinter
+##[TP 12 : les nombres réels et les caractères]##
+##VERSION : version GUI                        ##
+##Auteur : Martin MAUTOUCHET                   ##
+##Fini le 04/03/2025                           ##
+#################################################
 ##Importation de module :
 import tkinter as tk
 

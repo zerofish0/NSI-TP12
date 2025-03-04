@@ -1,5 +1,8 @@
-###[TP 12 : Les nombres réels et les caractères]###
-##Auteur : Martin MAUTOUCHET 1ere4
+##[TP 12 : les nombres réels et les caractères]##
+##VERSION : version classe                     ##
+##Auteur : Martin MAUTOUCHET                   ##
+##Fini le 04/03/2025                           ##
+#################################################
 #VERSION : avec les classes
 ##Implémentation de fonctions
 class IEEE754(object) :
